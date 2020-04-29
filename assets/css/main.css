@@ -268,7 +268,7 @@ body {
 //  02 - Header
 ///////////////////////////////////////////////////////////////////////*/
 
-#header {
+#home {
 	background: url(../img/bg/bg-1.jpeg) no-repeat center top fixed;
 	background-size: cover;
 }
@@ -598,7 +598,7 @@ body {
 	line-height: 90%;
 	margin-bottom: 80px;
 } */
-#services .block-heading h1 {
+#me .block-heading h1 {
 	color: #fff;
 	margin-bottom: 2vw;
 	font-family: 'Milonga', cursive;
@@ -660,24 +660,24 @@ ul.numbersList span {
 //  08 - Testimonials
 /////////////////////////////////////////////////////////////////////*/
 
-#testimonials {
+#skills {
 	padding: 60px 0;
 }
 
-#testimonials .block-heading {
+#skills .block-heading {
 	margin-bottom: 0px;
 }
 
 
 
-#testimonials .block-heading h1 {
+#skills .block-heading h1 {
 	color: rgb(0, 129, 129);
 	font-family: 'Milonga', cursive;
 	font-weight: 400;
 	font-size: 55px;
 }
 
-#testimonials .block-heading h2 {
+#skills .block-heading h2 {
 	margin-top: 5vw;
 	margin-left: 8vw;
 	color: rgb(0, 129, 129);
@@ -687,12 +687,12 @@ ul.numbersList span {
 
 }
 
-#testimonials .testimonial {
+#skills .testimonial {
 	padding: 25px;
 	cursor: -webkit-grab;
 }
 
-#testimonials .testimonial>img {
+#skills .testimonial>img {
 	border-radius: 100%;
 	margin-bottom: 15px;
 }
@@ -894,7 +894,7 @@ i.fa.fa-envelope-o {
 
 @media (max-width: 500px) {
 
-	#services .block-heading h1 {
+	#me .block-heading h1 {
 		color: #fff;
 		font-family: 'Milonga', cursive;
 		font-weight: 400;
@@ -981,7 +981,7 @@ i.fa.fa-envelope-o {
 		margin-top: 10vw;
 	}
 
-	#testimonials .block-heading h2 {
+	#skills .block-heading h2 {
 		margin-top: 5vw;
 		margin-left: 2vw;
 		color: rgb(0, 129, 129);
