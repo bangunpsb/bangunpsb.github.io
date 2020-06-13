@@ -1,5 +1,7 @@
-// typed
+// year copyright
+document.getElementById("year").innerHTML = new Date().getFullYear();
 
+// typed
 var typed = new Typed('.typed', {
   strings: ["Bangun Pasaribu.", "Web Developer.", "Desktop Developer."],
   typeSpeed: 80,

@@ -444,11 +444,30 @@ body {
 	background-color: rgba(32, 36, 47, 0.94);
 }
 
+
+/*////////////////////////////////////////////////////////////////////////
+//  Certificate
+///////////////////////////////////////////////////////////////////////*/
+
+#certificate {
+	padding: 60px 0;
+}
+
+#certificate .block-heading h1 {
+	color: rgb(0, 129, 129);
+	font-weight: 400;
+	font-size: 55px;
+	font-family: 'Milonga', cursive;
+}
+
+
+
 /*////////////////////////////////////////////////////////////////////////
 //  06 - Latest works
 ///////////////////////////////////////////////////////////////////////*/
 
 #portfolio {
+	margin-bottom: 100px;
 	padding: 60px 0;
 }
 
@@ -661,6 +680,7 @@ ul.numbersList span {
 /////////////////////////////////////////////////////////////////////*/
 
 #skills {
+	margin-top: 65px;
 	padding: 60px 0;
 }
 
@@ -681,7 +701,7 @@ ul.numbersList span {
 	margin-top: 5vw;
 	margin-left: 8vw;
 	color: rgb(0, 129, 129);
-	font-family: 'Milonga', cursive;
+	font-family: 'Special Elite', cursive;
 	font-weight: 100;
 	font-size: 30px;
 
