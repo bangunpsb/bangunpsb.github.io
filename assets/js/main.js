@@ -41,8 +41,6 @@ function scrollFunction() {
       nav[i].style.marginBottom = "1vw";
       nav[i].style.transition = "05.s";
     }
-
-    // document.getElementById("site-nav").style.marginTop = "0";
   }
 }
 

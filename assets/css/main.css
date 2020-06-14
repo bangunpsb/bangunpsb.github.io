@@ -152,6 +152,10 @@ Text Domain: developer
 	transform: scaleX(1);
 }
 
+.certificate img {
+	margin: 0 auto;
+}
+
 .skills {
 	margin-top: 3vw;
 }
