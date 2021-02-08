@@ -273,7 +273,7 @@ body {
 ///////////////////////////////////////////////////////////////////////*/
 
 #home {
-	background: url(../img/bg/bg-1.jpeg) no-repeat center top fixed;
+	background: url(../img/bg/gipp.jpg) no-repeat center top fixed;
 	background-size: cover;
 }
 
@@ -744,7 +744,7 @@ ul.numbersList span {
 /////////////////////////////////////////////////////////////////////*/
 
 #contact {
-	background: url(../img/bg/gip.gif) no-repeat center center fixed;
+	background: url(../img/bg/gipp.jpg) no-repeat center center fixed;
 	background-size: cover;
 	color: #fff;
 }
